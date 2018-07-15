@@ -28,7 +28,7 @@ namespace CSharpandHTML
         int i;
         int j;
 
-            for (i = 2; i<=rowcount; i++ )
+            for (i = 1; i<=rowcount; i++ )
             {
                 for (j=1; j< columncount;j++)
                 {
